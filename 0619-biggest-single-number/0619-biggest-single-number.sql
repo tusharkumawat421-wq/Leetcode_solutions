@@ -3,7 +3,6 @@ SELECT COALESCE(
     (
         SELECT num
         FROM mynumbers
-        WHERE num IS NOT NULL
         GROUP BY num
         HAVING COUNT(*) = 1
         ORDER BY num DESC

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0178-rank-scores) |
 | [0619-biggest-single-number](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0619-biggest-single-number) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1084-sales-analysis-iii) |

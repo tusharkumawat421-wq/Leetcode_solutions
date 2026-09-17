@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1084-sales-analysis-iii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1587-bank-account-summary-ii](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1587-bank-account-summary-ii) |
 | [1965-employees-with-missing-information](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1965-employees-with-missing-information) |
 ## Two Pointers
 |  |

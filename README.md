@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0274-h-index) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

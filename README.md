@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0184-department-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0619-biggest-single-number](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |

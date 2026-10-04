@@ -1,16 +1,16 @@
-# Write your MySQL query statement below
-SELECT COALESCE(
-    (
-        SELECT num
-        FROM mynumbers
-        GROUP BY num
-        HAVING COUNT(*) = 1
-        ORDER BY num DESC
-        LIMIT 1
-    ),
-    NULL
-) AS num;
-
--- select num
+-- # Write your MySQL query statement below
+-- select max(num) num
 -- from mynumbers
--- where num = (select num from mynumbers group by num having count(num)= 1 and max(num) order by num desc limit 1)
+-- group by num
+-- having count(*) = 1
+-- order by num desc
+-- limit 1
+select max(num) num
+from mynumbers
+where num = (select max(num)
+    from mynumbers
+    group by num
+    having count(*) =1
+    order by num desc
+    limit 1
+)

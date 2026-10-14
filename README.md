@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0274-h-index) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0274-h-index) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Counting Sort
 |  |
 | ------- |

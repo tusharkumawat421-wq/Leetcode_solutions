@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0274-h-index) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |

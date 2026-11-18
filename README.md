@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1068-product-sales-analysis-i) |

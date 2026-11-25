@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/1965-employees-with-missing-information) |
+| [3586-find-covid-recovery-patients](https://github.com/tusharkumawat421-wq/Leetcode_solutions/tree/master/3586-find-covid-recovery-patients) |
 ## Two Pointers
 |  |
 | ------- |
